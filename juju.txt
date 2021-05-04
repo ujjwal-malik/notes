@@ -1,2 +1,4 @@
 JUJU by canonical
 Training on 3 May 2021
+
+1. What is Juju
